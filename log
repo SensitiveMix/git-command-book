@@ -1,2 +1,3 @@
 git log --oneline
 git log --graph
+git log --source
